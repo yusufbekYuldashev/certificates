@@ -7,7 +7,7 @@ This repository contains the certificates I've earned, showcasing my commitment 
 1. **Android Basics Nanodegree By Google**
    - *Completion date:* [2020-06-08]
    - *Description:* The program covers the fundamentals of Java programming and Android app development, with a focus on creating functional apps for mobile devices. Key topics include user interfaces, working with databases, and using Android's powerful tools like RecyclerView and APIs to enhance app functionality.
-   - [View Certificate](./certificates/Android_Basics_Nanodegree_By_Google.pdf)
+   - [View Certificate](./certificates/Android Basics Nanodegree By Google.pdf)
 
 2. **Neural Networks and Deep Learning**
    - *Completion Date:* [2020-11-03]
